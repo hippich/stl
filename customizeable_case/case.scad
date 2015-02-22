@@ -1,6 +1,6 @@
 include <./boxes.scad>;
 
-width = 170; 
+width = 170;
 height = 257;
 depth = 10;
 corner_radius = 10;
@@ -26,6 +26,10 @@ back_camera_y = 29;
 back_camera_r = 5;
 
 pocket_cut_height = 5;
+
+// Pattern size
+pw = 100; // Hardcoded
+ph = 150; // Hardcoded
 
 difference() {
   // Shell
@@ -74,8 +78,10 @@ difference() {
 
   // Pocket cut
   cube(size = [width - corner_radius * 2, height + 4 * wall_thickness, pocket_cut_height], center = true);
+
+  // Back pattern
+  translate([0, 0, -1 * (depth + wall_thickness) / 2])
+    scale([(width - corner_radius) / pw, (height - corner_radius) / ph, wall_thickness])
+      import("pattern.stl");
 }
-
-
-
 
