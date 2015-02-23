@@ -2,9 +2,9 @@ include <./boxes.scad>;
 
 width = 170;
 height = 257;
-depth = 10;
+depth = 10.5;
 corner_radius = 10;
-wall_thickness = 2;
+wall_thickness = 3;
 edge_width = 17;
 
 top_left_hole_width = 50;
@@ -27,10 +27,9 @@ back_camera_r = 5;
 
 pocket_cut_height = 5;
 
-// Pattern size
-pw = 100; // Hardcoded
-ph = 150; // Hardcoded
+back_window_scale = 1;
 
+rotate([0, 0, 90])
 difference() {
   // Shell
   roundedBox([width + wall_thickness * 2, height + wall_thickness * 2, depth + wall_thickness * 2], corner_radius, true);
@@ -79,9 +78,8 @@ difference() {
   // Pocket cut
   cube(size = [width - corner_radius * 2, height + 4 * wall_thickness, pocket_cut_height], center = true);
 
-  // Back pattern
-  translate([0, 0, -1 * (depth + wall_thickness) / 2])
-    scale([(width - corner_radius) / pw, (height - corner_radius) / ph, wall_thickness])
-      import("pattern.stl");
+  // Back window
+  translate([0, 0, -1 * wall_thickness * 2])
+    scale([back_window_scale, back_window_scale, 1])
+      cube(size = [width - edge_width, height - edge_width, depth], center = true);
 }
-
