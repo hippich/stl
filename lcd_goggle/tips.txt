@@ -1,0 +1,21 @@
+Some printing tips:
+
+1. If you are printing with ABS I highly recommend you rescale each file to 101% to account for shrinkage. 
+
+2. Low weight is important. Use normal shell thickness and 20% infill on all files except lens_slide_set, which should be at least 50% infill with thick shells. 
+
+3. All parts have relaxed designs to ensure printing success; Skirts and/or support structures are not needed to print any of the parts.
+
+Some building tips:
+
+1. Before installing the foam board panels you should paint the inside surfaces with opaque flat black paint to block sunlight. Use water based paint (foam safe). Some hot melt glue where the four foam board panels join together is recommended (apply on the inside). 
+
+2. For aesthetics, the exposed side of the LCD Driver PCB is covered with a piece of foam board. This decorative cover can be tacked in place with a small amount of hot melt glue.
+
+3. The LCD is installed in the rear bezel and held with small amounts of hot melt glue at the four corners. Do not use too much in case you need to take it out for repairs.
+
+4. The M3 brass inserts do not need any hole drilling prior to installing them. Place the insert on the tip of your soldering iron, heat for 10 seconds, and press into place. The top flange must be flush with the surface of the plastic part. My trick is to install the insert with its flange slightly above the surface, then I quickly push the face of the insert against a flat table top and hold for a few seconds while it cools. This will provide a perfectly level & flush installation.
+
+5. Do NOT use adhesive on any of the plastic parts in case you need to dismantle the goggles for maintenance. All the plastic parts screw together so glue isn't needed.
+
+6. Polish the contact surfaces of the lens slider so it moves freely when the lens adj screw is slightly loosened. Use a file or sandpaper for a smooth surface and easy sliding. ABS can be further polished with acetone.

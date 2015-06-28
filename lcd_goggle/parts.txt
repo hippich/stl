@@ -1,0 +1,63 @@
+Parts were chosen for easy availability and low cost. That means eBay and China suppliers. Here's the BOM (bill of materials).
+
+1280 x 800 7-inch IPS LCD monitor panel, driver board with keyboard, $68 USD
+http://www.aliexpress.com/item/HDMI-...875387689.html
+
+Cheap Drug Store type Reading Glasses (wire frame). Only $1 from your local Dollar Tree (USA store)
+Choose optics for 7-8 inch viewing distance.
+
+Rubber Foam Weatherstrip, Self Stick, 3/8" Wide x 5/16" Thick, $3
+
+Flat black water based paint (Styrofoam / plastic safe).
+
+Elastic Headband Strap For GoPro, $3
+http://www.ebay.com/itm/221769522726
+
+M5 GoPro Mount Screw, $1
+http://www.ebay.com/itm/Long-Plastic...-/371295508815
+
+Right Angle RCA Adapter, $1
+http://www.ebay.com/itm/1pcs-RCA-Mal...-/391099163392
+
+3mm carbon fiber rod (or wooden cooking skewer)
+2 pcs 43mm long for left & right strap loop
+1 pcs 45mm long for top strap loop
+
+3/16" (4.5mm) Foam Board, $2
+2 pcs 136mm x 112mm (left / right box cover panel)
+2 pcs 136mm x 175mm (top / bottom box cover panel)
+1 pcs 63mm x 165mm (LCD Controller PCB Shield)
+
+M3 lock nut
+1 pcs for face bezel, top side (under top strap loop)
+
+M3 x 6mm Button Head Screw
+4 pcs for rear panel vent cover
+4 pcs for left & right cheek pads
+
+M3 x 8mm Button Head Screw
+2 pcs for eyeglass frame capture mount
+2 pcs for left & right slide rail
+2 pcs for left bezel brace
+4 pcs for right bezel brace & Keypad
+4 pcs for front bezel Part 2
+
+M3 x 14mm Button Head Screw
+1 pcs for face bezel
+2 pcs for rear PCB
+
+M3 x 25mm Button Head Screw 
+1 pc for lens adj thumbscrew (right slide rail)
+
+M3 x 40mm Socket Button Head Screw (alternate flat head)
+4 pcs for face bezel
+
+
+Brass Press-Fit Expansion Insert for Plastics with Flange, $7
+M3 x .5 Internal Thread, 4.8mm Long
+McMaster-Carr #94510A240
+http://www.mcmaster.com/#94510a240/=xgtbga
+Approx 36 pcs required
+
+Alternate China sourced M3 brass inserts (McMaster's press-fit insert shown above provides stronger plastic bond)
+http://www.banggood.com/100pcs-M34mm...-p-971077.html
