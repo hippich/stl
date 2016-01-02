@@ -10,6 +10,8 @@ How to use
  * Press-fit attachment into four screw holes underneath your Neato.
  * Once robot finished cleaning - simply unplug attachment from the roboto and remove mop.
 
+![Attachment schema](https://github.com/hippich/stl/blob/9204e121573d2345d13ede655fb4101b5c3ce3bb/neato_mop_attachment/attaching.jpg?raw=true)
+
 Video
 =====
 
