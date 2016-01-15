@@ -6,7 +6,7 @@ This attachment let you add mopping abilities to your Neato XV vacuuming robot.
 How to use
 ==========
 
- * Wrap mop around attachment your purchased
+ * Wrap mop around attachment you purchased
  * Press-fit attachment into four screw holes underneath your Neato.
  * Once robot finished cleaning - simply unplug attachment from the roboto and remove mop.
 
