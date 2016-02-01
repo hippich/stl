@@ -1,0 +1,36 @@
+[general]
+version = 1
+name = Normal Quality (Customised)
+
+[settings]
+xy_offset = -0.3
+shell_thickness = 1.2
+speed_print = 75
+skirt_gap = 10
+alternate_extra_perimeter = True
+wall_line_width_x = 0.7
+infill_sparse_density = 50
+skin_outline_count = 1
+skirt_line_width = 0.7
+infill_line_width = 0.7
+speed_travel = 200
+wall_line_width_0 = 0.5
+meshfix_union_all_remove_holes = True
+speed_wall_x = 50
+top_layers = 3
+retraction_prime_speed = 45
+retraction_amount = 1
+bottom_layers = 3
+speed_wall_0 = 30
+retraction_retract_speed = 45
+skin_alternate_rotation = True
+speed_topbottom = 15
+material_print_temperature = 0
+coasting_enable = True
+layer_height = 0.3
+support_enable = False
+retraction_hop = 0.3
+material_diameter = 3
+retraction_combing = False
+cool_fan_enabled = False
+
